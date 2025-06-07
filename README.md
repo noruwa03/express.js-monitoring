@@ -52,7 +52,6 @@ Create a `.env` file in the `app/` directory with the following variables:
 ```env
 # Application Settings
 PORT=8080
-NODE_ENV=production
 
 # Database Configuration for Neon DB or AWS RDS
 DB_CONN_LINK=postgresql://username:password@host:port/database
